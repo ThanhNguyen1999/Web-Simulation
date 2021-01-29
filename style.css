@@ -92,7 +92,7 @@ body{
   margin-bottom:20px;
 }
 .box ul li{
-  background:url(./image/li.png) no-repeat left center;
+  background:url(image/li.png) no-repeat left center;
   list-style-type:none;
   margin:0px 0px 8px;
   padding:0px 0px 0px 15px;
