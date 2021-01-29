@@ -96,7 +96,7 @@ body{
   margin:0px 0px 8px;
 	padding:0px 0px 0px 15px;
 	font-size:12px;
-  background:url(/image/li.png) no-repeat left center;
+  background:url(../image/li.png) no-repeat left center;
 }
 .box ul li a{
   color:black;
@@ -107,7 +107,7 @@ body{
 	text-decoration:none;
 }
 .col_1 h1{
- background:url(/image/star.png) no-repeat left center;
+ background:url(./image/star.png) no-repeat left center;
  padding: 0 0 0 25px;
 }
 .footer{
