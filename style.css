@@ -92,11 +92,11 @@ body{
   margin-bottom:20px;
 }
 .box ul li{
+  background:url(./image/li.png) no-repeat left center;
   list-style-type:none;
   margin:0px 0px 8px;
-	padding:0px 0px 0px 15px;
-	font-size:12px;
-  background:url(./image/li.png) no-repeat left center;
+  padding:0px 0px 0px 15px;
+  font-size:12px;
 }
 .box ul li a{
   color:black;
@@ -111,12 +111,12 @@ body{
  padding: 0 0 0 25px;
 }
 .footer{
-  text-align:center;
+text-align:center;
 }
 .clear-float {
   clear: both;
 }
 .top_content {
-      column-count: 2;
-    column-gap: 20px;
+ column-count: 2;
+ column-gap: 20px;
 }
