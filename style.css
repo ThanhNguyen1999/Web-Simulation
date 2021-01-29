@@ -96,7 +96,7 @@ body{
   margin:0px 0px 8px;
 	padding:0px 0px 0px 15px;
 	font-size:12px;
-  background:url(../image/li.png) no-repeat left center;
+  background:url(./image/li.png) no-repeat left center;
 }
 .box ul li a{
   color:black;
